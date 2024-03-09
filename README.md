@@ -26,7 +26,6 @@ Predictr was developed by Tyler J. Netek, a graduate data science student and ba
 If you have any questions, feedback, or suggestions regarding the Predictr application, feel free to reach out to Tyler J. Netek:
 
 - Email: tnetek6@gatech.edu
-- Phone: (832) 299-8200
 
 ## Disclaimer
 
